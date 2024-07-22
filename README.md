@@ -53,8 +53,6 @@ This repository contains a bot designed for automating bulk posting on Facebook 
     - Set up your posting schedule and content.
     - **Setup Cookies**: Save the cookies after a successful login using the script provided and update the `cookies.pkl` file.
 
-### Sample Video
-[![asciicast](https://asciinema.org/videos/Video_240716095857.mp4)](https://asciinema.org/a/113463)
 
 
 ## Usage
